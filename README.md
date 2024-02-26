@@ -29,7 +29,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Maher-Zubair"><img title="Owner" src="https://img.shields.io/badge/OWNER-Maher_Zubair-black?style=flat-square&logo=github&label=owner" width="173px" height="29"></a>
+<a href="https://github.com/Umar4t7"><img title="Owner" src="https://img.shields.io/badge/OWNER-Umar4t7-black?style=flat-square&logo=github&label=owner" width="173px" height="29"></a>
   <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE"><img title="Owner" src="https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD?style=flat-square&color=black&link=https%3A%2F%2Fgithub.com%2FMaher-Zubair%2FSIGMA-MD%2Fblob%2Fmain%2FLICENS" width="173px" height="29"></a>
 
 
@@ -43,7 +43,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Maher-Zubair}/count.svg" alt="Maher-Zubair :: Visitor's Count" /></p>
 
 ##
-***Why Choose SIGMA-MD, Must Check Bot Features And ChangeLog***
+***Why Choose UMAR-MD, Must Check Bot Features And ChangeLog***
  <details close>
 <summary>𝘽𝙊𝙏 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎</summary>
    
