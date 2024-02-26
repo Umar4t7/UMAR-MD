@@ -131,11 +131,10 @@ forgg
 
 
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
-1. ### FORK THE UMAR-MD
+### FORK THE UMAR-MD
   </p>
 <a href='https://github.com/Umar4t7/UMAR-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork The UMAR MD-black?style=for-the-badge&logo=git&logoColor=white'/></a>
-
-2. ### LOGGING WITH PAIRING CODE 
+LOGGING WITH PAIRING CODE 
 <br>
 <a href='https://sessions.maher-zubair.tech/pair' target="_blank"><img alt='PAIRING CODE' src='https://img.shields.io/badge/Pairing_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
                                                            
