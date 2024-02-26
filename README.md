@@ -1,27 +1,27 @@
 
-<h1 align="center"> sɪɢᴍᴀ-ᴍᴅ </h1>
+<h1 align="center"> *«ᴍᴀᴅᴇ ʙʏ ᴜᴍᴀʀ»* </h1>
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@InnoxentTech?sub_confirmation=1">
-    <img alt=Support height="350" src="https://telegra.ph/file/03e49e6e2057568db8926.jpg"> 
+    <img alt=Support height="350" src="https://telegra.ph/file/e6aa9bee564089601884a.jpg"> 
     </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SIGMA-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MAHER+ZUBAIR;RELEASED+DATE+1%2F10%2F2023." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+UMAR-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+BLOCKBUSTER-KING+UMAR;RELEASED+DATE+1%2F10%2F2023." alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
-  <a href="https://github.com/Maher-Zubair">
-    <img src="https://img.shields.io/github/followers/Maher-Zubair?style=flat-square&logo=github&color=black">
+  <a href="https://github.com/Umar4t7">
+    <img src="https://img.shields.io/github/followers/Umar4t7?style=flat-square&logo=github&color=black">
 
-   <a href="https://github.com/Maher-Zubair/SIGMA-MD/fork">
-    <img src="https://img.shields.io/github/forks/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
+   <a href="https://github.com/Umar4t7/UMAR-MD/fork">
+    <img src="https://img.shields.io/github/forks/Umar4t7/UMAR-MD?style=flat-square&logo=github&color=black">
     
     
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/stargazers"> 
-     <img src="https://img.shields.io/github/stars/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
+  <a href="https://github.com/Umar4t7/UMAR-MD/stargazers"> 
+     <img src="https://img.shields.io/github/stars/Umar4t7/UMAR-MD?style=flat-square&logo=github&color=black">
 
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/watchers"> 
-     <img src="https://img.shields.io/github/watchers/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
+  <a href="https://github.com/Umar4t7/UMAR-MD/watchers"> 
+     <img src="https://img.shields.io/github/watchers/Umar4t7/UMAR-MD?style=flat-square&logo=github&color=black">
 
   </a>
 
