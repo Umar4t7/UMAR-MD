@@ -63,7 +63,7 @@
  <details close>
 <summary>𝘾𝙃𝘼𝙉𝙂𝙀 𝙇𝙊𝙂</summary>
 
-- ***SIGMA-MD v1.4.9 Releases, 16 Feb,2024***
+- ***UMAR-MD v1.0.0 Releases, 16 Feb,2024***
 - *Added `Pair Code` For Session ID*
 - *Added New `Session ID` For Bot*
 - *Added New `Qr`*
@@ -132,7 +132,7 @@
 
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
 1. ***Star⭐ The Repository Must***
-2. ***Click [FORK](https://github.com/Maher-Zubair/SIGMA-MD/fork)***
+2. ***Click [FORK](https://github.com/Umar4t7/UMAR-MD/fork)***
 3. ***Get Your [SESSION ID](https://sessions.maher-zubair.tech)***
 4. ***Get Your [Mongodb](https://www.mongodb.com/cloud/atlas/register) Url***
 5. ***Deploy on [Heroku](https://maher-zubair.tech/Bot/deploy/heroku)***
