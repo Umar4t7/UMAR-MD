@@ -131,9 +131,11 @@ forgg
 
 
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=FORK+THE+UMAR-MD" alt="Typing SVG" /></a>
+  </p>
 <a href='https://github.com/Umar4t7/UMAR-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork The UMAR MD-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-2. ***Click [FORK](https://github.com/Umar4t7/UMAR-MD/fork)***
 3. ***Get Your [SESSION ID](https://sessions.maher-zubair.tech)***
 4. ***Get Your [Mongodb](https://www.mongodb.com/cloud/atlas/register) Url***
 5. ***Deploy on [Heroku](https://maher-zubair.tech/Bot/deploy/heroku)***
