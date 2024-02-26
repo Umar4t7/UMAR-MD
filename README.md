@@ -133,7 +133,7 @@ gg
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
 
 <p align="left">
-<a href="https://github.com/Umar4t7/UMAR-MD/fork"><img align="center" src="https://telegra.ph/file/e6aa9bee564089601884a.jpg" alt="Fork and deploy" height="35" width="155" /></a>
+<a href="https://github.com/Umar4t7/UMAR-MD/fork"><text align="center" src="Fork" alt="Fork and deploy" height="35" width="155" /></a>
 
 2. ***Click [FORK](https://github.com/Umar4t7/UMAR-MD/fork)***
 3. ***Get Your [SESSION ID](https://sessions.maher-zubair.tech)***
