@@ -1,12 +1,12 @@
 
-<h1 align="center"> *«ᴍᴀᴅᴇ ʙʏ ᴜᴍᴀʀ»* </h1>
+<h1 align="center"> «ᴍᴀᴅᴇ ʙʏ ᴜᴍᴀʀ» </h1>
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@InnoxentTech?sub_confirmation=1">
     <img alt=Support height="350" src="https://telegra.ph/file/e6aa9bee564089601884a.jpg"> 
     </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+UMAR-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+BLOCKBUSTER-KING+UMAR;RELEASED+DATE+1%2F10%2F2023." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+UMAR-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+BLOCKBUSTER+KING+UMAR;RELEASED+DATE+1%2F10%2F2023." alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
