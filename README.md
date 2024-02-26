@@ -131,10 +131,13 @@ forgg
 
 
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
-1. ### FORK THE UMAR-MD CLICK BELOW 👇
+1. ### FORK THE UMAR-MD
   </p>
 <a href='https://github.com/Umar4t7/UMAR-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork The UMAR MD-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
+<br>
+<a href='https://sessions.maher-zubair.tech' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+                                                           
 3. ***Get Your [SESSION ID](https://sessions.maher-zubair.tech)***
 4. ***Get Your [Mongodb](https://www.mongodb.com/cloud/atlas/register) Url***
 5. ***Deploy on [Heroku](https://maher-zubair.tech/Bot/deploy/heroku)***
